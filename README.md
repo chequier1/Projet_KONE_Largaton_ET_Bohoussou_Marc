@@ -10,6 +10,14 @@ Les fonctionnalités sont:
 
 Aussi une partie tab des taches à faire et une partie des taches faites
 
+Pour exécuter l'application :
+expo start
+
+Nom des participants:
+1. KONE Largaton Ange Cyril
+2. BOHOUSSOU Marc
+
+
 
 ![WhatsApp Image 2023-01-14 at 10 41 10 PM](https://user-images.githubusercontent.com/105814979/212500412-dd56634d-322b-4be8-b75a-5b8823001161.jpeg)
 ![WhatsApp Image 2023-01-14 at 10 41 15 PM](https://user-images.githubusercontent.com/105814979/212500416-30c56d6c-7dd1-4993-a6c9-d19b40d25f5c.jpeg)
